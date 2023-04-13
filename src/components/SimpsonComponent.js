@@ -1,3 +1,4 @@
+import React from "react";
 
 const SimsponComponent = ({data: simpsons}) => {
     return (
@@ -14,5 +15,4 @@ const SimsponComponent = ({data: simpsons}) => {
         </div>
     );
 };
-
-export default SimsponComponent;
+export default SimsponComponent

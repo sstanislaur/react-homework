@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Rickandmorty = ({items: rickandmorty}) => {
+const RickAndMorty = ({items: rickandmorty}) => {
     return (
         <div>
             {
@@ -18,4 +18,4 @@ const Rickandmorty = ({items: rickandmorty}) => {
     );
 };
 
-export default Rickandmorty;
+export default RickAndMorty;
